@@ -12,7 +12,7 @@ Welcome to our Web Developer Tools website! This React-based website provides a 
 
 ## Demo
 
-Check out our live demo of the Web Developer Tools at [[https://your-demo-url.com](https://your-demo-url.com)](https://mahsan15.github.io/WebDev-tools/).
+Check out our live demo of the Web Developer Tools at https://mahsan15.github.io/WebDev-tools/.
 
 ## Getting Started
 
@@ -39,13 +39,6 @@ To run this project locally on your machine, follow these steps:
 
    This will start the development server, and you can access the website at `http://localhost:3000`.
 
-## Contributing
-
-We welcome contributions from the community! If you find any issues, have suggestions for improvements, or want to add new features, feel free to open a pull request. Before contributing, please read our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
