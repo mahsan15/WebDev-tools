@@ -1,4 +1,7 @@
 node_modules/
+<<<<<<< HEAD
 build/
 dist/
 logs/
+=======
+>>>>>>> dc41e004fd51889cb1cb0069d0899b94967b00ac
