@@ -1,6 +1,6 @@
 # Web Developer Tools
 
-Welcome to our Web Developer Tools website! This React-based website provides a collection of useful tools for web developers to simplify common tasks. Here, you'll find the following tools:
+Welcome to the Web Developer Tools website! This React-based website provides a collection of useful tools for web developers to simplify common tasks. Here, you'll find the following tools:
 
 - **Chmod Calculator:** A tool to calculate and visualize file permissions using the chmod numeric and symbolic notation.
 
@@ -45,10 +45,10 @@ To run this project locally on your machine, follow these steps:
 
 ## Acknowledgements
 
-We would like to express our gratitude to the open-source community and all the online information to make this possible.
+I would like to express my gratitude to the open-source community and all the online information to make this possible.
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact us at ahsant2709@gmail.com
+If you have any questions or feedback, feel free to contact me at ahsant2709@gmail.com
 
-Thank you for visiting our Web Developer Tools website! We hope you find these tools helpful in your web development journey. Happy coding!
+Thank you for visiting the Web Developer Tools website! I hope you find these tools helpful in your web development journey. Happy coding!
