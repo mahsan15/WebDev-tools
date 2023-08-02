@@ -10,7 +10,7 @@ Welcome to our Web Developer Tools website! This React-based website provides a 
 
 - **Password Generator:** Create secure and customizable passwords to enhance your application's security.
 
-  ![image](https://github.com/mahsan15/WebDev-tools/assets/82739557/e6e69fec-3f7b-4ca5-9f3f-97f198f3dbd7)
+  ![image](https://github.com/mahsan15/WebDev-tools/assets/82739557/d3302185-14db-42c6-8b87-e1993ba5ca30)
 
 
 ## Demo
