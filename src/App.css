@@ -1,0 +1,47 @@
+.max-w-760 {
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+.max-w-980 {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.w-100 {
+    width: 100%
+}
+
+.card {
+    border: 2px solid #ccc;;
+}
+
+.card-invalid {
+    border: 2px solid #ef5350;
+}
+
+.border-top {
+    border-top: 2px solid #000;
+}
+
+code {
+    color: #e91e63; /* Change the code color to pink */
+    background-color: #f5f5f5; /* Add a light gray background to code */
+    padding: 2px 5px; /* Reduce the padding for code */
+    border-radius: 3px;
+}
+
+.bg-wisteria {
+    background-color: #9c27b0; /* Change the background color to purple */
+    color: #fff;
+}
+
+.p-fieldset {
+    background: #1e1e1e; 
+}
+
+@media (max-width: 960px) {
+    .logo {
+        display: none !important;
+    }
+}
