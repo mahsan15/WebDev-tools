@@ -2,7 +2,7 @@
   "name": "web-developer-tools",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://coderberg.github.io/web-developer-tools",
+  "homepage": "https://mahsan15.github.io/WebDev-tools/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.1",
     "@testing-library/jest-dom": "^5.16.4",
